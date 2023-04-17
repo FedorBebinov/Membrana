@@ -1,5 +1,5 @@
 # Membrana
-Unzip .xcodeproject
-Install pods:
+Unzip .xcodeproject__
+Install pods:_ _
 cd file/path
 pod install
